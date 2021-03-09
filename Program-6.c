@@ -5,9 +5,10 @@
 int main()
 {
 int a,b,result;
-printf("Enter 2 numbers for Arithmetic evaluation operation:");
-scanf("%d%d",);  // correct the code
-r = a+b*a/b-a%b;      // correct the code
-printf("Arithmetic expression evaluation of %d and  is = %d",a,b,result); // correct the code
+printf("Enter 2 numbers of  for Arithmetic evaluation operation");
+scanf("%d%d",&a,&b);  // correct the code
+result = a+b*a/b-a%b;      // correct the code
+printf("Arithmetic expression evaluation of %d and %d is = %d",a,b,result);
+return 0; // correct the code
 // insert the missing code
 }
