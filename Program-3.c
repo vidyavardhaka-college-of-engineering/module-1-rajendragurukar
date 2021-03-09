@@ -3,7 +3,7 @@
 #include<stdio.h>
 int main() 
    { //correct the code
-    int a,b,product;
+    double a,b,product;
     printf("Enter two numbers ");
     scanf("%lf%lf",&a,&b);  //correct the code
      // Calculating product
