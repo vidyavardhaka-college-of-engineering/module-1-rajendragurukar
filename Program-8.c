@@ -3,10 +3,9 @@
 #include<stdio.h>
 int main()
 {
-    int x, y;
+    int x,y;
     printf(" Enter the value of x: ");
-    // insert the missing code
-    printf("y = %d  ",y=++x)
+    //scan"y = %d  ",y=++x)
     printf("y = %d  ",y=x++)
     printf("y = %d  ",y=--x)
     printf("y = %d  ",y=x--) // correct the code 
